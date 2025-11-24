@@ -56,11 +56,10 @@ H --> I[Enrichment Layer]
 
 I --> J[Sprint Plan JSON]
 
-G --> K[Jira Issue Creator]
+J --> K[Jira Issue Creator]
 
-J --> L[Review and Approval Interface in Copilot Studio]
-L --> K
 K --> M[Jira Cloud]
+
 ```
 
 ## Solution Benefits and Value
